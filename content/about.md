@@ -6,4 +6,4 @@ menu: "main"
 url: "/about/"
 ---
 
-Hi, this is a test!
+Hi, this is a test! :)
