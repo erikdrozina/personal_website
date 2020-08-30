@@ -107,10 +107,6 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  
-   [[params.social]]
-    name = "email"
-    url  = "erikdrozina01@gmail.com"
 
   [[params.social]]
     name = "github"

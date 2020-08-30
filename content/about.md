@@ -6,4 +6,6 @@ menu: "main"
 url: "/about/"
 ---
 
-Hi, this is a test! :)
+Hi, I am Erik Drozina, a 19 year old italian student passionate about the tech world.
+
+I use Java and C# for coding my own free-time apps
