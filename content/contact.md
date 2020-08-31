@@ -5,4 +5,6 @@ draft: false
 menu: "main"
 ---
 
-Test
+All the necessary contact information is available in the homepage by clicking the desired social icon.
+
+I respond to any message within the same day.
