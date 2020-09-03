@@ -5,4 +5,14 @@ draft: false
 menu: "main"
 ---
 
-All the necessary contact information is available below and at the [homepage](/) by clicking the desired social icon.
+You can easily contact me just by clicking the desired social media below or searching the username written next to the social media.
+
+[Email](mailto:erikdrozina01@gmail.com): erikdrozina01@gmail.com
+
+[Telegram](https://t.me/erikdrozina) @erikdrozina
+
+[Instagram](https://instagram.com/erik.drxzina) @erik.drxzina
+
+[Twitter](https://twitter.com/erikdrozina) @erikdrozina
+
+[Github](https://github.com/erikdrozina) @erikdrozina

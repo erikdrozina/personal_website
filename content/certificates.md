@@ -6,7 +6,7 @@ menu: "main"
 url: "/certificates/"
 ---
 
-During my scholastic experience i was able to study and gain for these certifications:
+During my scholastic experience I was able to study and gain for these certifications:
 
 - Secondary school diploma in Information Technology and Telecommunications
 - Cisco IT Essentials from Cisco Networking Academy course
