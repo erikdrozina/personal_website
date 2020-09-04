@@ -2,6 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/615f16db-c733-4a54-b8b0-a5d5d35666e5/deploy-status)](https://app.netlify.com/sites/erikdrozina/deploys)
 
+[Website link](https://erikdrozina.com)
+
 ## General informations
 
 Theme created by [Djordje Atlialp](https://github.com/rhazdon/hugo-theme-hello-friend-ng); Huge thanks to him.
