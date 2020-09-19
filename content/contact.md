@@ -7,12 +7,12 @@ menu: "main"
 
 You can easily contact me just by clicking the desired social media below or searching the username written next to the social media.
 
-[Email](mailto:erikdrozina01@gmail.com): erikdrozina01@gmail.com
+Email: [erikdrozina01@gmail.com](mailto:erikdrozina01@gmail.com)
 
-[Telegram](https://t.me/erikdrozina) @erikdrozina
+Telegram: [@erikdrozina](https://t.me/erikdrozina) 
 
-[Instagram](https://instagram.com/erik.drxzina) @erik.drxzina
+Instagram: [@erik.drxzina](https://instagram.com/erik.drxzina) 
 
-[Twitter](https://twitter.com/erikdrozina) @erikdrozina
+Twitter: [@erikdrozina](https://twitter.com/erikdrozina) 
 
-[Github](https://github.com/erikdrozina) @erikdrozina
+Github: [@erikdrozina](https://github.com/erikdrozina) 
