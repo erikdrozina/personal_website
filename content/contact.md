@@ -11,7 +11,7 @@ Email: [erikdrozina01@gmail.com](mailto:erikdrozina01@gmail.com)
 
 Telegram: [@erikdrozina](https://t.me/erikdrozina) 
 
-Instagram: [@erik.drxzina](https://instagram.com/erik.drxzina) 
+Instagram: [@erikdrozina](https://instagram.com/erikdrozina) 
 
 Twitter: [@erikdrozina](https://twitter.com/erikdrozina) 
 
