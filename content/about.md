@@ -10,6 +10,6 @@ Hi, I am Erik Drozina, a 19 year old Italian student passionate about the tech w
 
 I use Java (Android oriented), C# and Python for coding my free-time apps and I have a good knowledge of C, C++.
 
-I use Linux as Operative System (Pop-Os) on my daily driver laptop which I'm currently using to work with Android realated stuff and school projects.
+I use Linux as Operative System ([Pop!_Os](https://pop.system76.com/)) on my daily driver laptop which I'm currently using to work with Android realated stuff and school projects.
 
 For more information about my degrees check the [certificates page](/certificates).
