@@ -8,8 +8,8 @@ url: "/about/"
 
 Hi, I am Erik Drozina, a 19 year old Italian student passionate about the tech world.
 
-I use Java and C# for coding my free-time apps and I have a good knowledge of C, C++ and Python too, which I'm deepening.
+I use Java (Android oriented), C# and Python for coding my free-time apps and I have a good knowledge of C, C++.
 
-I also have a solid basic knowledge of Linux as OS which I'm currently using to work with Android realated stuff.
+I use Linux as Operative System (Pop-Os) on my daily driver laptop which I'm currently using to work with Android realated stuff and school projects.
 
-For more information check the [certificates page](/certificates).
+For more information about my degrees check the [certificates page](/certificates).
