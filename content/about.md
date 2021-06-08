@@ -8,8 +8,11 @@ url: "/about/"
 
 Hi, I am Erik Drozina, a 19 year old Italian student passionate about the tech world.
 
-I use  C#, Java (Android oriented) and Python for coding my free-time apps and I have a basic knowledge of C, C++ studied in high school.
+I use C#, Java (Android oriented) and Python for coding my free-time apps and I have a basic knowledge of C, C++ studied in high school.
 
-I use Linux as Operative System ([Manjaro](https://manjaro.org/)) on my daily driver computer which I'm currently using to work with Android realated stuff, school projects and other small personal projects.
+I use Linux as Operative System ([Manjaro](https://manjaro.org/)) on my daily driver computer which I'm currently using to work with Android realated stuff, school projects and other personal projects.
+
+I am currently studying at ITS Kennedy in Pordenone and following the Developer Industry 4.0 course.
+In my spare time I like to develop custom android roms for my device and play with android stuff. 
 
 For more information about my degrees check the [certificates page](/certificates).
