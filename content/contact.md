@@ -5,7 +5,7 @@ draft: false
 menu: "main"
 ---
 
-You can easily contact me just by clicking the desired link below or searching the username written next to the social media.
+You can easily contact me just by clicking the desired link below.
 
 Email: [erikdrozina01@gmail.com](mailto:erikdrozina01@gmail.com)
 
