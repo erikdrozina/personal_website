@@ -8,7 +8,7 @@ url: "/about/"
 
 Hi, I am Erik Drozina, a 19 year old Italian student passionate about the tech world.
 
-I studied C#, Java (Android oriented), Javascript at school, learnt Python and Bash in my free time and have a basic knowledge of C++ from the first years of High School.
+I studied C#, Java (Android oriented), Javascript at school, learnt Python, Flutter and Bash in my free time and have a basic knowledge of C++ from the first years of High School.
 
 In my school career I've studied topics like Windows Server, PLC, Networking, Electronics and Telecomunications, Database (Relational mostly), Linux CLI and Web Development (Back-End mostly).
 
