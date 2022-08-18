@@ -1,11 +1,8 @@
 ---
 title: "Contact"
-date: 2020-08-30T01:37:18+02:00
 draft: false
 menu: "main"
 ---
-
-You can easily contact me just by clicking the desired link below.
 
 Email: [erikdrozina01@gmail.com](mailto:erikdrozina01@gmail.com)
 

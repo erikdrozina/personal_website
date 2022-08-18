@@ -1,6 +1,5 @@
 ---
 title: "Certificates"
-date: 2020-08-29T04:06:54+02:00
 draft: false
 menu: "main"
 url: "/certificates/"
@@ -8,6 +7,7 @@ url: "/certificates/"
 
 During my scholastic experience I was able to study and gain for these certifications:
 
+- Post diploma Developer Industry 4.0 degree at [ITS Alto Adriatico](https://www.itsaltoadriatico.it/)
 - Secondary school diploma in Information Technology and Telecommunications
 - Cisco IT Essentials from Cisco Networking Academy course
 - ECDL Full Standard Certificate
